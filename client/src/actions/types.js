@@ -1,0 +1,13 @@
+export const GET_ERRORS ="get_errors";
+export const SET_CURRENT_USER = "set_current_user";
+export const GET_PROFILE = "get_profile";
+export const PROFILE_LOADING = "profile_loading";
+export const PROFILE_NOT_FOUND = "profile_not_found";
+export const CLEAR_CURRENT_PROFILE = "clear_current_profile";
+export const GET_PROFILES = "get_profiles";
+export const POST_LOADING = "post_loading";
+export const GET_POSTS = "get_posts";
+export const GET_POST = "get_post";
+export const ADD_POST = "add_post";
+export const DELETE_POST = "delete_post";
+export const CLEAR_ERRORS = 'clear_errors';
